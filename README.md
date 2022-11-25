@@ -7,6 +7,7 @@ during course I have obtained knowledge of:
   - Padding
   - Strided Convolutions
   - Pooling Layers
+
 2.Deep Convolutional Models: Case Studies
 
 3.Object Detection
