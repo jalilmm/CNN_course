@@ -9,6 +9,10 @@ during course I have obtained knowledge of:
   - Pooling Layers
 
 2.Deep Convolutional Models: Case Studies
+  - Classic Networks (LeNet, AlexNet)
+  - ResNets
+  - MobileNet
+  - EfficientNet
 
 3.Object Detection
 
