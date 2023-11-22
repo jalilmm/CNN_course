@@ -19,6 +19,7 @@
    - Implement semantic image segmentation on the CARLA self-driving car dataset
    - Explain the difference between a regular CNN and a U-net
    - Build a U-Net
+
 4.Face recognition & Neural Style Transfer
    - What is Face Recognition?
    - One Shot Learning
