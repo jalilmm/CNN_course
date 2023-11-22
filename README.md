@@ -25,4 +25,10 @@ during course I have obtained knowledge of:
    - Explain the difference between a regular CNN and a U-net
    - Build a U-Net
 4.Face recognition & Neural Style Transfer
+   - What is Face Recognition?
+   - One Shot Learning
+   - Siamese Network
+   - Triplet Loss
+   - Clarifications about Upcoming Face Verification and Binary Classification  
+   - Face Verification and Binary Classification
 
